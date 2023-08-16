@@ -6,6 +6,8 @@
 ## and C development files for the HELTEC AUTOMATION Lora Node 151, 433MHz board
 
 ## Description
+The folder "RS41SimTx" comprises the software for the HELTEC AUTOMATION Lora Node 151, 433MHz board.
+It was developed with STM32 CubeIDE version 1.11.0
 
 The files were created by Paz Hameiri in 2023
 
