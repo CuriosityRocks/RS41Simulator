@@ -1,7 +1,9 @@
 # "CON trolling the weather"
 # DEF CON 31 and the Aerospace Village 2023 Talks
 
-## RS41 Python simulation framework and scripts and C development files for the HELTEC AUTOMATION Lora Node 151, 433MHz board, to support the simulation
+## RS41 Python simulation framework and scripts
+
+## and C development files for the HELTEC AUTOMATION Lora Node 151, 433MHz board, to support the simulation
 
 ## Description
 
