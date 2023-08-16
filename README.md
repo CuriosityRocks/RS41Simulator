@@ -14,20 +14,13 @@ The Folder "Framework" comprises the following function libraries:
 
 
 The folder "RS41SimTx" comprises the software for the HELTEC AUTOMATION Lora Node 151, 433MHz board.
-
 It was developed with STM32CubeIDE:
-
-Version: 1.11.0
-
-Build: 13638_20221122_1308 (UTC)
-
-OS: Windows 11, v.10.0, x86_64 / win32
-
-Java vendor: Eclipse Adoptium
-
-Java runtime version: 11.0.16+8
-
-Java version: 11.0.16
+  - Version: 1.11.0
+  - Build: 13638_20221122_1308 (UTC)
+  - OS: Windows 11, v.10.0, x86_64 / win32
+  - Java vendor: Eclipse Adoptium
+  - Java runtime version: 11.0.16+8
+  - Java version: 11.0.16
 
 
 The files were created by Paz Hameiri in 2023
