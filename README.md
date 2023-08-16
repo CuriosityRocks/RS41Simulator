@@ -11,7 +11,7 @@ The Folder "Framework" comprises the following function libraries:
   - RS41SubframeRW.py: Subframes level read/write operations
   - RS41Functions.py: GPS data calculations, measurements calculation, message level data whitening
   - RS41SimFunctions.py: Log file operations, radio messages generation, audio messages generation
-
+The files were developed with Anaconda version 22.9.0
 
 The folder "RS41SimTx" comprises the software for the HELTEC AUTOMATION Lora Node 151, 433MHz board.
 It was developed with STM32CubeIDE:
