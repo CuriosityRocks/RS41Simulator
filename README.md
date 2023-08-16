@@ -6,6 +6,13 @@
 ## and C development files for the HELTEC AUTOMATION Lora Node 151, 433MHz board
 
 ## Description
+The Folder "Framework" comprises the following function libraries:
+  - RS41BlockRW.py: Frame level/Block level read/write operations
+  - RS41SubframeRW.py: Subframes level read/write operations
+  - RS41Functions.py: GPS data calculations, measurements calculation, message level data whitening
+  - RS41SimFunctions.py: Log file operations, radio messages generation, audio messages generation
+
+
 The folder "RS41SimTx" comprises the software for the HELTEC AUTOMATION Lora Node 151, 433MHz board.
 
 It was developed with STM32CubeIDE:
