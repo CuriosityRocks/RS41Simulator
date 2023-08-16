@@ -3,7 +3,7 @@
 
 ## RS41 Python simulation framework and scripts and
 
-## Supporting source code for the HELTEC AUTOMATION Lora Node 151, 433MHz board
+## supporting source code for the HELTEC AUTOMATION Lora Node 151, 433MHz board
 
 ### Description
 The Folder "Framework" comprises the following function libraries:
