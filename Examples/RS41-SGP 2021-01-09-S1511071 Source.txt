@@ -1,0 +1,5 @@
+Radiosonde serial number: S1511071
+Radiosonde type: RS41-SGP
+Tranmission date: 09-01-2021
+Source link: https://www.youtube.com/watch?v=bn9YawMlxD4
+Source name: K9RCP - Radiosonde Tracking
