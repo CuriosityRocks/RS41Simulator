@@ -13,6 +13,11 @@ The Folder "Framework" comprises the following function libraries:
   - RS41SimFunctions.py: Log file operations, radio messages generation, audio messages generation
 The files were developed with Anaconda version 22.9.0
 
+The folder "Examples" comprises the following files:
+  - RS41 log files
+  - An ops-gps.txt example file
+  - Example Python scripts, showing how to use the simulation framework, ops-gps.txt file and log files to spoof RS41 messages
+
 The folder "RS41SimTx" comprises the software for the HELTEC AUTOMATION Lora Node 151, 433MHz board.
 It was developed with STM32CubeIDE:
   - Version: 1.11.0
