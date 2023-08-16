@@ -3,7 +3,7 @@
 
 ## RS41 Python simulation framework and scripts
 
-## and C development files for the HELTEC AUTOMATION Lora Node 151, 433MHz board, to support the simulation
+## and C development files for the HELTEC AUTOMATION Lora Node 151, 433MHz board
 
 ## Description
 
